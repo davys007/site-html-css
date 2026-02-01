@@ -1,25 +1,25 @@
 Site HTML e CSS
 
 Projeto de estudo em desenvolvimento web utilizando HTML5 e CSS3.
-
+---
 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
-
 ---
-
 🎯 Objetivo do projeto
 - Praticar a estruturação de páginas HTML
 - Aplicar estilização com CSS
 - Desenvolver um site simples e funcional
-
 ---
-
- 🚀 Como visualizar o projeto
+🚀 Como visualizar o projeto
 O site pode ser acessado pelo link:
 
-👉 (https://davys007.github.io/site-html-css/)
+👉 https://davys007.github.io/site-html-css/
+---
+🌐 Versão alternativa do site
+Este projeto também possui uma versão criada no Canva:
 
-
-## 📚 Observações
+👉 https://davysparabelly.my.canva.site/
+---
+📚 Observações
 Projeto desenvolvido com foco em aprendizado e evolução contínua.
