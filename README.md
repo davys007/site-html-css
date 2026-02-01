@@ -18,7 +18,7 @@ Projeto de estudo em desenvolvimento web utilizando HTML5 e CSS3.
  🚀 Como visualizar o projeto
 O site pode ser acessado pelo link:
 
-👉 https://SEU_USUARIO.github.io/site-html-css/
+👉 (https://davys007.github.io/site-html-css/)
 
 
 ## 📚 Observações
